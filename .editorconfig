@@ -1,0 +1,3 @@
+[*]
+ij_javascript_use_semicolon_after_statement = false
+ij_typescript_use_semicolon_after_statement = false
